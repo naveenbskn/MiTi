@@ -25,7 +25,7 @@ main.py
 - latest version of software 
 - facial identifcaton
 - play dino game
-
+- advance mode(under devlopment)
 
 # Dependencies
 Require 3.x python, installing all required packages, XAMPP Apache server
