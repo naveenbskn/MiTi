@@ -1,4 +1,4 @@
-# Tina
+# Tina a Python Virtual assistant 
 It is voice based virtual assistant, it is used to automate the tasks.
 Tina makes you to fell comfort and also it control and access the pc or laptop
 
